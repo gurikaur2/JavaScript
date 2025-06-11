@@ -3,4 +3,8 @@
 //alert(3+3)..this is used in browser developer console in collab with html
 
 
-console.log(typeof "hitesh")
+console.log(typeof "hitesh");
+console.log(typeof undefined);
+console.log(typeof null);
+
+
