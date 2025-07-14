@@ -4,7 +4,7 @@
 const myArray=[0,1,2,3,4,5];
 const myHeros=["Shaktiman", "Naagraj"];
 const Arr2=new Array(1,2,3,4);
-console.log(typeof myArray);
+//console.log(typeof myArray);
 
 
 //ARRAY METHODS
